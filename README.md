@@ -18,7 +18,7 @@ The dashboard provides deep insights into:
   
 ## Screenshot
 
-![HR Analytics Dashboard Screenshot](./screenshot.png)
+![HR Analytics Dashboard Screenshot](https://github.com/vidhi0528/employee-attrition-dashboard/blob/main/Dashboard_Preview.png)
 
 ## 🛠 Tools Used
 - *Power BI* for data visualization
